@@ -77,6 +77,5 @@ Please upload your work to a GitHub repository, and send us an email with a link
 
 * jdentler@gsfsgroup.com
 * shorton@gsfsgroup.com
-* pmayer@gsfsgroup.com
 * rjones@gsfsgroup.com
 * hmcbride@gsfsgroup.com
