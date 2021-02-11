@@ -79,3 +79,13 @@ Please upload your work to a GitHub repository, and send us an email with a link
 * shorton@gsfsgroup.com
 * rjones@gsfsgroup.com
 * hmcbride@gsfsgroup.com
+
+If you choose to keep your repository private, please grant access to the following Github users:
+* brian23bush
+* gregmajor
+* heatherRose
+* jasondentler
+* rickj33
+* wshorton
+
+
