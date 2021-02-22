@@ -37,7 +37,7 @@ public interface ICalculateOhmValues
 Using your favorite unit test framework, write the unit tests you feel are necessary to test the code you write as your answer to the first challenge.
 
 ### Challenge Three
-Write an alternative implementation of the following method.
+Write an alternative implementation of the following method in C#.
 
 ```csharp
 /// <summary>
