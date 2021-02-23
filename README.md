@@ -2,10 +2,14 @@
 Welcome! This repository contains everything you need to know in order to complete the developer evaluation. If you have questions along the way, send them to the email you were provided when you were invited to complete the evaluation. Otherwise, relax and have fun!
 
 ## Overview
-The point of this evaulation is to give you an opportunity to show us what you do best! There aren't necessarily right or wrong answers. Think of it more as a way to demonstrate your ability to solve problems with well-written code.
+The point of this evaulation is to give you an opportunity to show us what you do best! There aren't necessarily right or wrong answers. Think of it more as a way to demonstrate your ability to solve problems with well-written code that we can build easily and see in action.
 
 ## Instructions
 The evaluation is considered complete when you A) perform the setup tasks, B) complete each challenge, and C) submit your answers.
+
+The answers you submit should build and any tests written to validate your answers should pass.
+
+If you have questions regarding clarification around any of the challenges, please do not hesitate to email your questions to the members of our team listed below.
 
 ### Requirements
 In order to complete the evaluation you will need the following:
@@ -80,7 +84,7 @@ Please upload your work to a GitHub repository, and send us an email with a link
 * rjones@gsfsgroup.com
 * hmcbride@gsfsgroup.com
 
-If you choose to keep your repository private, please grant access to the following Github users:
+If you choose to keep your repository private, please grant access to the following GitHub users:
 * brian23bush
 * gregmajor
 * heatherRose
