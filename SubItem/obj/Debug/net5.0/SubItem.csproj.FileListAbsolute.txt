@@ -1,0 +1,12 @@
+/home/jimbromley/repos/gsfs/DeveloperEvaluation/SubItem/bin/Debug/net5.0/SubItem.deps.json
+/home/jimbromley/repos/gsfs/DeveloperEvaluation/SubItem/bin/Debug/net5.0/SubItem.dll
+/home/jimbromley/repos/gsfs/DeveloperEvaluation/SubItem/bin/Debug/net5.0/ref/SubItem.dll
+/home/jimbromley/repos/gsfs/DeveloperEvaluation/SubItem/bin/Debug/net5.0/SubItem.pdb
+/home/jimbromley/repos/gsfs/DeveloperEvaluation/SubItem/obj/Debug/net5.0/SubItem.csprojAssemblyReference.cache
+/home/jimbromley/repos/gsfs/DeveloperEvaluation/SubItem/obj/Debug/net5.0/SubItem.GeneratedMSBuildEditorConfig.editorconfig
+/home/jimbromley/repos/gsfs/DeveloperEvaluation/SubItem/obj/Debug/net5.0/SubItem.AssemblyInfoInputs.cache
+/home/jimbromley/repos/gsfs/DeveloperEvaluation/SubItem/obj/Debug/net5.0/SubItem.AssemblyInfo.cs
+/home/jimbromley/repos/gsfs/DeveloperEvaluation/SubItem/obj/Debug/net5.0/SubItem.csproj.CoreCompileInputs.cache
+/home/jimbromley/repos/gsfs/DeveloperEvaluation/SubItem/obj/Debug/net5.0/SubItem.dll
+/home/jimbromley/repos/gsfs/DeveloperEvaluation/SubItem/obj/Debug/net5.0/ref/SubItem.dll
+/home/jimbromley/repos/gsfs/DeveloperEvaluation/SubItem/obj/Debug/net5.0/SubItem.pdb

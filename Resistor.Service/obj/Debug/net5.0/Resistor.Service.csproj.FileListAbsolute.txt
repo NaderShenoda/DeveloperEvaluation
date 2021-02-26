@@ -1,0 +1,12 @@
+/home/jimbromley/repos/gsfs/DeveloperEvaluation/Resistor.Service/obj/Debug/net5.0/Resistor.Service.csprojAssemblyReference.cache
+/home/jimbromley/repos/gsfs/DeveloperEvaluation/Resistor.Service/obj/Debug/net5.0/Resistor.Service.GeneratedMSBuildEditorConfig.editorconfig
+/home/jimbromley/repos/gsfs/DeveloperEvaluation/Resistor.Service/obj/Debug/net5.0/Resistor.Service.AssemblyInfoInputs.cache
+/home/jimbromley/repos/gsfs/DeveloperEvaluation/Resistor.Service/obj/Debug/net5.0/Resistor.Service.AssemblyInfo.cs
+/home/jimbromley/repos/gsfs/DeveloperEvaluation/Resistor.Service/obj/Debug/net5.0/Resistor.Service.csproj.CoreCompileInputs.cache
+/home/jimbromley/repos/gsfs/DeveloperEvaluation/Resistor.Service/bin/Debug/net5.0/Resistor.Service.deps.json
+/home/jimbromley/repos/gsfs/DeveloperEvaluation/Resistor.Service/bin/Debug/net5.0/Resistor.Service.dll
+/home/jimbromley/repos/gsfs/DeveloperEvaluation/Resistor.Service/bin/Debug/net5.0/ref/Resistor.Service.dll
+/home/jimbromley/repos/gsfs/DeveloperEvaluation/Resistor.Service/bin/Debug/net5.0/Resistor.Service.pdb
+/home/jimbromley/repos/gsfs/DeveloperEvaluation/Resistor.Service/obj/Debug/net5.0/Resistor.Service.dll
+/home/jimbromley/repos/gsfs/DeveloperEvaluation/Resistor.Service/obj/Debug/net5.0/ref/Resistor.Service.dll
+/home/jimbromley/repos/gsfs/DeveloperEvaluation/Resistor.Service/obj/Debug/net5.0/Resistor.Service.pdb
